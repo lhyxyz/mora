@@ -3,13 +3,13 @@
 	"id": "mora",
 	"version": "${version}",
 	"name": "Mora",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "mora is a minecraft 1.20.1 mod for fabric, the mod add item mora, can buy object in Minecraft Server with diamond shop mod",
 	"authors": [
 		"Windy"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.mineshin.top/",
+		"sources": "https://github.com/lhyxyz/mora-fabric-1.20.1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/mora/icon.png",
