@@ -15,6 +15,11 @@ public class itemGroup {
             FabricItemGroup.builder().displayName(Text.translatable("itemGroup.mora"))
                     .icon(() -> new ItemStack(items.MORA)).entries((displayContext, entries) -> {
                         entries.add(items.MORA);
+                        entries.add(items.intertwined_fate);
+                        entries.add(items.credit);
+                        entries.add(items.pass);
+                        entries.add(items.denny);
+                        entries.add(items.tape);
                     }).build());
 
     public static void registerModItemGroup(){
