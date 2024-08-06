@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "mora",
-	"version": "v1.1.0",
+	"version": "v1.1.1",
 	"name": "Mora",
 	"description": "摩拉是一个为Minecraft 1.20.1开发的适用于Fabric的模组，模组添加了物品摩拉、纠缠之缘、信用点等游戏代币，摩拉可在服务器里搭配“钻石商店”当作货币使用”",
 	"authors": [
