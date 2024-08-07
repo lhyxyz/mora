@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "mora:primogem"
+      "item": "mora:mora"
     }
   },
   "pattern": [
+    " # ",
     "###",
-    "###",
-    "###"
+    " # "
   ],
   "result": {
-    "item": "mora:intertwined_fate"
+    "item": "mora:primogem"
   },
   "show_notification": true
 }

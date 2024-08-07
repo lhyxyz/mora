@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "mora:primogem"
+      "item": "mora:denny"
     }
   },
   "pattern": [
+    " # ",
     "###",
-    "###",
-    "###"
+    " # "
   ],
   "result": {
-    "item": "mora:intertwined_fate"
+    "item": "mora:polychrome"
   },
   "show_notification": true
 }

@@ -1,9 +1,12 @@
 {
   "item.mora.mora": "Mora",
+  "item.mora.primogem": "Primogem",
   "item.mora.intertwined_fate": "Intertwined Fate",
   "item.mora.credit": "Credit",
+  "item.mora.stellar": "Stellar",
   "item.mora.pass": "Pass",
   "item.mora.denny": "Denny",
+  "item.mora.polychrome": "Polychrome",
   "item.mora.tape": "Tape",
   "itemGroup.mora": "Mora"
 }
